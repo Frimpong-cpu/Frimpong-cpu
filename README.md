@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Frimpong-cpu
 - 👀 I’m interested in ... reading and researching
 - 🌱 I’m currently learning .. software engineering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with you all...
 - 📫 How to reach me ...0592763153
 
 <!---
